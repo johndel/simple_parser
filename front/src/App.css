@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.domain-list {
+  cursor: pointer;
+  text-align: left;
+  list-style: none;
+  padding: 5px;
+}
+
+.column.domain-scroll {
+  height: 400px;
+  overflow-y: scroll;
+}
+
+td.actions {
+  text-align: center;
+}
+
+.domain-list button{
+  margin-left: 5px
+}
+
+.tab-pane {
+  text-align: left;
+}
+
+.tab-pane ul {
+  list-style: none;
+}
+
+/*.domain-attribute {*/
+  /*text-align: left;*/
+/*}*/
+
